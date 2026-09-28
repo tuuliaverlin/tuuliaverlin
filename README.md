@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tuulia 👋
 
-<!--
-**tuuliaverlin/tuuliaverlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building open infrastructure for the AI era.
 
-Here are some ideas to get you started:
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/tuuliaverlin)
+[![Collaborate on Lovable](https://img.shields.io/badge/Lovable-Collaborate-blue?logo=lovable)](https://lovable.dev/invite/048CIS1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💖 Support my work
+If you find my projects helpful or want to support my open-source contributions, consider becoming a sponsor on [GitHub Sponsors](https://github.com/sponsors/tuuliaverlin).
+
+### 🚀 Collaborate on Lovable
+I build interactive apps and prototypes on Lovable. You're welcome to explore and collaborate via my [invite link](https://lovable.dev/invite/048CIS1) *(note: invites can expire, feel free to reach out if you need a fresh link)*.
