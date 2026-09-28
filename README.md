@@ -21,8 +21,8 @@ My operating model relies on a clean separation between public open-source found
 - Sponsorship does not include commercial licenses, custom development, or proprietary product access.
 
 #### 🎯 Current Milestone Goal
-> **Goal:** $500 / month  
-> **Purpose:** Covers dedicated CI/CD infrastructure, continuous benchmarking environments, and independent technical research.
+> **Milestone:** 10 Active Sponsors  
+> **Focus:** Sustaining continuous open-source pipelines, reproducible benchmarks, and public developer tooling.
 
 #### 📦 Sponsorship Tiers
 
