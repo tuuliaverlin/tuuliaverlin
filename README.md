@@ -24,15 +24,6 @@ My operating model relies on a clean separation between public open-source found
 > **Milestone:** 10 Active Sponsors  
 > **Focus:** Sustaining continuous open-source pipelines, reproducible benchmarks, and public developer tooling.
 
-#### 📦 Sponsorship Tiers
-
-| Tier | Contribution | Description & Focus |
-| :--- | :--- | :--- |
-| **Ecosystem Supporter** | **$5** / mo | Helps sustain open maintenance, dependencies, and public tooling across the ecosystem. |
-| **Infrastructure Patron** | **$25** / mo | Funds independent research notes, prototype benchmarks, and open architectural tooling. |
-| **Ecosystem Partner** | **$100** / mo | Major patronage supporting long-term open infrastructure health, stability, and public R&D. |
-| **One-Time Contribution** | **$15** once | A direct tip toward open-source releases, tooling fixes, and public documentation. |
-
 👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/tuuliaverlin)**
 
 ---
