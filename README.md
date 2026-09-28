@@ -12,3 +12,8 @@ If you find my projects helpful or want to support my open-source contributions,
 
 ### 🚀 Collaborate on Lovable
 I build interactive apps and prototypes on Lovable. You're welcome to explore and collaborate via my [invite link](https://lovable.dev/invite/048CIS1) *(note: invites can expire, feel free to reach out if you need a fresh link)*.
+
+### 🛠 Featured Projects & Infrastructure
+
+- **AI Tooling & Experiments** — Developing automated pipelines and developer utilities on [Lovable](https://lovable.dev/invite/048CIS1).
+- **Open Work** — Active contributions and continuous learning across GitHub developer ecosystems.
