@@ -11,13 +11,29 @@ Backing independent R&D for open AI infrastructure and automation.
 
 My work focuses on foundational open infrastructure, automated systems, and reusable tooling for AI-era development.
 
-#### 💖 How Sponsorship Fits into the Ecosystem
+---
+
+### 💖 Sponsorship & Ecosystem Support
+
 My operating model relies on a clean separation between public open-source foundations and commercial implementations:
 - **GitHub Sponsors** supports public goods: open libraries, public benchmarks, architectural research, and maintaining open repositories.
 - Sponsoring is an open-source patronage model ensuring core tooling remains independent, reliable, and accessible to everyone.
 - Sponsorship does not include commercial licenses, custom development, or proprietary product access.
 
-Every contribution directly ensures that foundational research and developer tooling remain sustainable and open to all.
+#### 🎯 Current Milestone Goal
+> **Goal:** $500 / month  
+> **Purpose:** Covers dedicated CI/CD infrastructure, continuous benchmarking environments, and independent technical research.
+
+#### 📦 Sponsorship Tiers
+
+| Tier | Contribution | Description & Focus |
+| :--- | :--- | :--- |
+| **Ecosystem Supporter** | **$5** / mo | Helps sustain open maintenance, dependencies, and public tooling across the ecosystem. |
+| **Infrastructure Patron** | **$25** / mo | Funds independent research notes, prototype benchmarks, and open architectural tooling. |
+| **Ecosystem Partner** | **$100** / mo | Major patronage supporting long-term open infrastructure health, stability, and public R&D. |
+| **One-Time Contribution** | **$15** once | A direct tip toward open-source releases, tooling fixes, and public documentation. |
+
+👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/tuuliaverlin)**
 
 ---
 
